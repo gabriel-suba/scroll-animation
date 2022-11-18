@@ -40,8 +40,6 @@ section h1 {
 }
 
 .wrapper {
-	outline: 2px dashed lime;
-
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -63,8 +61,6 @@ section h1 {
 }
 
 .hidden {
-	outline: 1px dashed lightcoral;
-
 	filter: blur(5px);
 	translate: 0 250%;
 	opacity: 0;
